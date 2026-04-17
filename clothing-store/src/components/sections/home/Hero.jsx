@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import heroImage from '../assets/bg-01.jpg'
-import Button from './Button'
+import heroImage from '../../../assets/bg-01.jpg'
+import Button from '../../ui/Button'
 
 const Hero = () => {
   return (

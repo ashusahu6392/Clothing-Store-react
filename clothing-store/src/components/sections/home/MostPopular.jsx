@@ -1,9 +1,9 @@
 import React from 'react'
-import ProductCard from '../components/ProductCard'
-import img1 from '../assets/img-08-a-400x488.jpg'
-import img2 from '../assets/img-06-a-black-300x366.jpg'
-import img3 from '../assets/img-04-ac-400x488.jpg'
-import img4 from '../assets/img-07-ab-400x488.jpg'
+import ProductCard from '../../ui/ProductCard'
+import img1 from '../../../assets/img-08-a-400x488.jpg'
+import img2 from '../../../assets/img-06-a-black-300x366.jpg'
+import img3 from '../../../assets/img-04-ac-400x488.jpg'
+import img4 from '../../../assets/img-07-ab-400x488.jpg'
 
 const products = [
   { id: 1, image: img1, category: 'Work & Office', name: 'Timeless Classic Collection',  price: '124.90' },

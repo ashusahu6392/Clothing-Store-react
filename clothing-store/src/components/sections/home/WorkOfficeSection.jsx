@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from './Button'
-import defaultBackground from '../assets/bg-pinstripBlazzer.jpg'
+import Button from '../../ui/Button'
+import defaultBackground from '../../../assets/bg-pinstripBlazzer.jpg'
 
 const WorkOfficeSection = ({
   eyebrow = 'Work & Office Attire',

@@ -1,7 +1,7 @@
 import React from 'react'
-import Button from './Button'
-import defaultBackground from '../assets/bg-greyHair.jpg'
-import defaultImage from '../assets/img-03-b.jpg'
+import Button from '../../ui/Button'
+import defaultBackground from '../../../assets/bg-greyHair.jpg'
+import defaultImage from '../../../assets/img-03-b.jpg'
 
 const FashionReinventedSection = ({
   titleLines = ['Discover The Allure Of', 'Fashion Reinvented!'],

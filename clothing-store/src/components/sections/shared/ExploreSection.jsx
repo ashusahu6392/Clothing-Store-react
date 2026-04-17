@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from './Button'
-import defaultBackground from '../assets/bg-005.jpg'
+import Button from '../../ui/Button'
+import defaultBackground from '../../../assets/bg-005.jpg'
 
 const ExploreSection = ({
   eyebrow = 'EXPLORE',

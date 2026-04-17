@@ -1,5 +1,5 @@
 import React from 'react'
-import defaultBackground from '../assets/images/About-bg-02.jpg'
+import defaultBackground from '../../../assets/images/About-bg-02.jpg'
 
 const AboutCustomerSection = ({
   eyebrow = 'Customer-Centric Approach',

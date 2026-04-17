@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { Search, ShoppingCart, X, Menu } from 'lucide-react'
-import logo from '../assets/logo-01.svg'
+import logo from '../../assets/logo-01.svg'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false)

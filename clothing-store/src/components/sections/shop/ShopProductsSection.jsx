@@ -1,13 +1,13 @@
 import React from 'react'
-import ProductCard from './ProductCard'
-import img1 from '../assets/images/img-08-a-400x488.jpg'
-import img2 from '../assets/images/img-01-a-400x488.jpg'
-import img3 from '../assets/images/img-02-aa-400x488.jpg'
-import img4 from '../assets/images/img-03-ad-400x488.jpg'
-import img5 from '../assets/images/img-04-ac-400x488.jpg'
-import img6 from '../assets/images/img-05-a-black.jpg'
-import img7 from '../assets/images/img-05-a-white-300x366.jpg'
-import img8 from '../assets/images/img-06-a-black-300x366.jpg'
+import ProductCard from '../../ui/ProductCard'
+import img1 from '../../../assets/images/img-08-a-400x488.jpg'
+import img2 from '../../../assets/images/img-01-a-400x488.jpg'
+import img3 from '../../../assets/images/img-02-aa-400x488.jpg'
+import img4 from '../../../assets/images/img-03-ad-400x488.jpg'
+import img5 from '../../../assets/images/img-04-ac-400x488.jpg'
+import img6 from '../../../assets/images/img-05-a-black.jpg'
+import img7 from '../../../assets/images/img-05-a-white-300x366.jpg'
+import img8 from '../../../assets/images/img-06-a-black-300x366.jpg'
 
 const defaultProducts = [
   { id: 1, image: img1, category: 'Work & Office', name: 'Timeless Classic Collection', price: '124.50' },

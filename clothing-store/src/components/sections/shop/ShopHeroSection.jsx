@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import defaultBackground from '../assets/images/bg-10.jpg'
+import defaultBackground from '../../../assets/images/bg-10.jpg'
 
 const ShopHeroSection = ({
   title = 'Shop',

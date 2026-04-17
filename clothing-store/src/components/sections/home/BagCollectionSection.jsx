@@ -1,7 +1,7 @@
 import React from 'react'
-import Button from './Button'
-import defaultBackground from '../assets/bg-02.jpg'
-import defaultImage from '../assets/bg-03-b.jpg'
+import Button from '../../ui/Button'
+import defaultBackground from '../../../assets/bg-02.jpg'
+import defaultImage from '../../../assets/bg-03-b.jpg'
 
 const BagCollectionSection = ({
   title = 'Explore our exquisite Bag Collection now!',

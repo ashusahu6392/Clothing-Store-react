@@ -1,7 +1,7 @@
 import React from 'react'
-import ShopHeroSection from '../components/ShopHeroSection'
-import ShopProductsSection from '../components/ShopProductsSection'
-import SiteFooter from '../components/SiteFooter'
+import ShopHeroSection from '../components/sections/shop/ShopHeroSection'
+import ShopProductsSection from '../components/sections/shop/ShopProductsSection'
+import SiteFooter from '../components/ui/SiteFooter'
 
 const Shop = () => {
   return (

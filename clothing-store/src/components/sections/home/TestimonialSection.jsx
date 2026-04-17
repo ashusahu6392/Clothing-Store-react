@@ -1,5 +1,5 @@
 import React from 'react'
-import defaultBackground from '../assets/bg-04.jpg'
+import defaultBackground from '../../../assets/bg-04.jpg'
 
 const StarIcon = ({ className }) => (
   <svg

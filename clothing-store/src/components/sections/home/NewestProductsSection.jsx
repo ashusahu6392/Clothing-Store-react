@@ -1,8 +1,8 @@
 import React from 'react'
-import img1 from '../assets/img-02-aa-400x488.jpg'
-import img2 from '../assets/img-07-ab-400x488.jpg'
-import img3 from '../assets/img-04-ac-400x488.jpg'
-import img4 from '../assets/img-03-ad-400x488.jpg'
+import img1 from '../../../assets/img-02-aa-400x488.jpg'
+import img2 from '../../../assets/img-07-ab-400x488.jpg'
+import img3 from '../../../assets/img-04-ac-400x488.jpg'
+import img4 from '../../../assets/img-03-ad-400x488.jpg'
 
 const defaultProducts = [
   { id: 1, image: img1, category: 'Activewear', name: 'Professional Pinstripe Blazer', price: '109.99' },
